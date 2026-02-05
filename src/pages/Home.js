@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-sky-400 via-sky-200 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-sky-400 via-sky- to-white">
       
       {/* HERO SECTION */}
       <section className="flex items-center justify-center text-center px-6 min-h-[calc(100vh-6rem)]">
